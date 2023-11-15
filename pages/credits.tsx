@@ -52,6 +52,14 @@ const teamMembers = [
     linkedin: "https://www.linkedin.com/in/somyagupta18",
     website: "https://somyagupta18.github.io",
   },
+  {
+    src: "https://harshranjan.me/images/normalme.jpg",
+    name: "Harsh Ranjan",
+    title: "Ram Bhakt, 2022-23",
+    about: "Jai Shree Ram",
+    linkedin: "https://www.linkedin.com/in/harshr20/",
+    website: "https://harshranjan.me",
+  }
 ];
 
 const contributors = [
