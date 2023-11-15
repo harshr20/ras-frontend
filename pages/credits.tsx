@@ -45,20 +45,20 @@ const teamMembers = [
     website: "https://manas-gupta.vercel.app",
   },
   {
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5uvX4FnvHPaZIKwfHUHMQQ4n8-DUQqrFBDtnWdSi9esTnLQyYk4y4Xsm5quMK4H_Pho&usqp=CAU",
+    name: "Harsh Ranjan",
+    title: "Ram Bhakt",
+    about: "Jai Shree Ram",
+    linkedin: "https://www.linkedin.com/in/harshr20/",
+    website: "https://harshranjan.me",
+  },
+  {
     src: "https://somyagupta18.github.io/assets/images/profile_pic.jpeg",
     name: "Somya Gupta",
     title: "Lead Developer",
     about: "A high functioning sociopath owning a start-up.",
     linkedin: "https://www.linkedin.com/in/somyagupta18",
     website: "https://somyagupta18.github.io",
-  },
-  {
-    src: "https://harshranjan.me/images/normalme.jpg",
-    name: "Harsh Ranjan",
-    title: "Ram Bhakt, 2022-23",
-    about: "Jai Shree Ram",
-    linkedin: "https://www.linkedin.com/in/harshr20/",
-    website: "https://harshranjan.me",
   }
 ];
 
